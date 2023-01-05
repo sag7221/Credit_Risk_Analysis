@@ -40,7 +40,9 @@ Below are the list of all 6 machine learning models with their corresponding bal
     * Recall (Sensitivity) is: 92%\
 ![ AdaBoost Classifier](https://github.com/sag7221/Credit_Risk_Analysis/blob/main/images/AdaBoost_Classifier.png)
 
-
+## Summary
+As is noticed from the above metrics of all 6 models, the AdaBoost Classifier stands out with high accuracy score. Also it is highly sensitive to high risk loans which is needed for our case.
+So the recommended model is AdaBoost Ensemble Classifier. 
 
 
 
