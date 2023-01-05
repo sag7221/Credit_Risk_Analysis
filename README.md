@@ -9,10 +9,10 @@ Here we are trying this out using different Supervised unbalanced Machine Learni
 ### Results
 Below are the list of all 6 machine learning models with their corresponding balanced accuracy scores and precision and recall values.
 
-* Naive Random Oversampling\
-Balanced Accuracy Score: 66%\
-Precision for High Risk is: 1%\
-Recall (Sensitivity) is: 71%\
+* Naive Random Oversampling
+    * Balanced Accuracy Score: 66%
+    * Precision for High Risk is: 1%
+    * Recall (Sensitivity) is: 71%
 ![Random Oversampling](https://github.com/sag7221/Credit_Risk_Analysis/blob/main/images/Random_Oversampling.png)
 * SMOTE Oversampling¶
 Balanced Accuracy Score: 65%
